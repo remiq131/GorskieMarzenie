@@ -598,7 +598,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-testimony .wrap-testimony .testimony-slide figure {
   margin-bottom: 10px;
-  display: -moz-inline-stack;
+  
   display: inline-block;
   zoom: 1;
   *display: inline;
